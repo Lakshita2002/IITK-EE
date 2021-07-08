@@ -27,6 +27,6 @@ The course content is such that it demands regularity. Procastinating in this co
 ### Grading
 A relative grading scheme was followed by the instructor. The averages in the quizzes and midsem & endsems hint that something was wrong with the course (and I can guarantee that cheating happened to a maximum). The problem lied with the pattern of the examination. The quizzes were very tough as the questions were to be solved in 3 mins each which put a lot of pressure. It became a marathon and instead of judging our understanding, our speed was being tested. And the irony is that the instructor resorted to such pattern to curb cheating, but this forced even the honest students to cheat to get atleast some marks in the exams. The objective nature of the quizzes implied binary marking, so 50% of the course consisted of binary marks. And by the time midsem/endsem came, all students were so discouraged that even the subjective papers (with partial marking) could not help them get marks. The course average was around 32 with a standard deviation of around 10. So A was given at around 42.
 
-<img src="" alt="Stats will be uploaded as soon as I have find them">
+<img src="" alt="Stats will be uploaded as soon as I find them">
 
 Regularity and a little bit of practice is the key to performing well in this course.
